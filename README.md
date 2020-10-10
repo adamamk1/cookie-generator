@@ -19,10 +19,11 @@ Press F9 to see how many cookies are left to generate.
 When it's done the cookies will show up in the console.
 
 # Credits 🍕
-[CJ](http://cjthebongocat.xyz), for hosting an authentication ticket to cookie converter
+[CJ](http://cjthebongocat.xyz), for hosting an authentication ticket to cookie converter.
+
+[Me](https://github.com/websinkwastaken), for making this.
 
 You, For checking this out :D
-
 
 Note:
 
