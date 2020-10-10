@@ -11,7 +11,7 @@ Run the [script in the repository](https://raw.githubusercontent.com/websinkwast
 Or, use the loadstring:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/websinkwastaken/cookie-gen/main/cg.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/websinkwastaken/cookie-generator/main/cg.lua",true))()
 ```
 
 Press F9 to see how many cookies are left to generate.
